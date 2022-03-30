@@ -6,6 +6,22 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
+  "bugs": {
+    "url": "https://github.com/kayooliveira/neptune-ui/issues"
+  },
+  "homepage": "https://github.com/kayooliveira/neptune-ui#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayooliveira/neptune-ui.git"
+  },
+  "displayName": "Neptune UI",
+  "icon": "./src/assets/icon.png",
+  "maintainers": [
+    {
+      "name": "Kayo Oliveira",
+      "email": "g.kayooliveira123@gmail.com"
+    }
+  ],
   "main": "index.ts",
   "files": [
     "src/**/*"
