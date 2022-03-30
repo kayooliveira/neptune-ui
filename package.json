@@ -1,5 +1,5 @@
 {
-  "name": "@neptune/ui",
+  "name": "@neptuneui/core",
   "version": "1.0.0",
   "description": "React UI components library built with @stitches/react",
   "scripts": {
